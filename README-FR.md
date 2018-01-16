@@ -19,7 +19,7 @@ Un service consiste en toute activité qui aide une personne à accomplir une t�
 
 La conception et la prestation d&#39;un **excellent** service sont au cœur de la fonction **publique**. L&#39;utilisation de méthodes de conception de services permet d&#39;assurer la mise en œuvre adéquate de bonnes idées dès le départ.
 
-> La vie est trop courte pour concevoir quelque chose dont personne ne veut. » [traduction] – _Ash Maurya_
+> La vie est trop courte pour concevoir quelque chose dont personne ne veut. [traduction] – _Ash Maurya_
 
 ### Le cycle de vie de la conception de services numériques
 
@@ -68,7 +68,7 @@ Chaque heure consacrée à parler aux utilisateurs ajoute une valeur importante.
 
 > Vous n&#39;êtes pas un concepteur d&#39;expérience utilisateur si vous ne parlez pas aux utilisateurs. [traduction] – _Whitney Hess_
 
-# Phase de découverte
+## Phase de découverte
 
 La phase de découverte aide à connaître les utilisateurs potentiels d&#39;un service et à déterminer comment répondre à leurs besoins.
 
@@ -96,7 +96,7 @@ L&#39;objectif est de se renseigner sur les utilisateurs et les difficultés aux
 
 #### La découverte ne se rapporte pas aux solutions, mais aux problèmes.
 
-Évitez de faire des hypothèses ou de penser à des solutions avant que la recherche soit terminée. Les solutions et les prototypes sont créés à l&#39;[étape suivante](#phase-alpha).
+Évitez de faire des hypothèses ou de penser à des solutions avant que la recherche soit terminée. Les solutions et les prototypes sont créés à [l'étape suivante](#phase-alpha).
 
 #### La phase de découverte ne se limite pas à une portée établie.
 
@@ -156,13 +156,13 @@ Durant la phase de découverte, l&#39;équipe a besoin des compétences pour :
 
 La plupart des équipes auront une ou plusieurs personnes assignées aux postes suivants :
 
-- [chef de produit](#chef-de-produit);
-- [responsable de la technologie](#responsable-de-la-technologie);
-- [concepteur de services](#concepteurs-de-services);
-- [chercheur sur les utilisateurs](#chercheurs-sur-les-utilisateurs);
-- [concepteur d'expérience utilisateur](#concepteurs-dexpérience-utilisateur);
-- [rédacteur de contenu](#rédacteurs-de-contenu);
-- [expert en la matière](#experts-en-la-matière);
+- [chef de produit](#chef-de-produit)
+- [responsable de la technologie](#responsable-de-la-technologie)
+- [concepteur de services](#concepteurs-de-services)
+- [chercheur sur les utilisateurs](#chercheurs-sur-les-utilisateurs)
+- [concepteur d'expérience utilisateur](#concepteurs-dexpérience-utilisateur)
+- [rédacteur de contenu](#rédacteurs-de-contenu)
+- [expert en la matière](#experts-en-la-matière)
 
 L&#39;équipe doit être souple tout au long du processus de conception du service. Comme les rôles ne seront pas tous requis à toutes les phases de la conception du service, la composition de l&#39;équipe devra être adaptée en fonction des besoins du service et de la phase du processus.
 
@@ -192,7 +192,7 @@ Envisagez de mettre fin à la conception d&#39;un service si la recherche indiqu
 
 **L&#39;arrêt après la phase de découverte ne doit pas être considéré comme étant un échec.** Le but de la phase de découverte est de comprendre les utilisateurs et de déterminer ce dont ils ont besoin. Dans certains cas, cela signifie changer les plans ou prendre une nouvelle direction, et c&#39;est correct. La conception est un processus itératif, non linéaire. La phase de découverte indique parfois la nécessité d&#39;effectuer une recherche plus approfondie. L&#39;objectif est de créer de meilleurs résultats, non de mettre en œuvre un nouveau service à tout prix.
 
-# Phase alpha
+## Phase alpha
 
 Alors que la phase de découverte se rapporte à la recherche, la phase alpha, elle, consiste à mettre les hypothèses à l&#39;essai et à les expérimenter. La phase alpha vise à déterminer comment répondre aux besoins des utilisateurs qui ont été cernés à la phase de découverte. Il s&#39;agit d&#39;une occasion de tester rapidement diverses démarches auprès des utilisateurs avant de mettre au point un service.
 
