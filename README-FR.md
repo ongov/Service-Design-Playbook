@@ -145,7 +145,7 @@ Envisagez de documenter la recherche d&#39;une ou plusieurs des façons suivante
 
 ### Constituer l&#39;équipe
 
-La découverte amène une nouvelle façon de travailler ainsi que de nouveaux ensembles de compétences et de capacités. Il faut une équipe [multidisciplinaire forte](#rôles-des-membres-de-l’équipe) en mesure d&#39;accomplir une vaste gamme de tâches.
+La découverte amène une nouvelle façon de travailler ainsi que de nouveaux ensembles de compétences et de capacités. Il faut une équipe [multidisciplinaire forte](#rôles-des-membres-de-léquipe) en mesure d&#39;accomplir une vaste gamme de tâches.
 
 Durant la phase de découverte, l&#39;équipe a besoin des compétences pour :
 
@@ -160,7 +160,7 @@ La plupart des équipes auront une ou plusieurs personnes assignées aux postes 
 - [responsable de la technologie](#responsable-de-la-technologie);
 - [concepteur de services](#concepteurs-de-services);
 - [chercheur sur les utilisateurs](#chercheurs-sur-les-utilisateurs);
-- [concepteur d&#39;expérience utilisateur](#concepteurs-d'expérience-utilisateur);
+- [concepteur d'expérience utilisateur](#concepteurs-dexpérience-utilisateur);
 - [rédacteur de contenu](#rédacteurs-de-contenu);
 - [expert en la matière](#experts-en-la-matière);
 
