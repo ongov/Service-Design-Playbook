@@ -27,10 +27,10 @@ La conception de services se déroule en quatre phases, chacune étant axée sur
 
 | Besoins des utilisateurs |            |
 | ---------- | ---------- |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/ongov/Digital-Service-Standard/blob/develop/images/dna-strand1.png" width="100"> | <h3><a href="#Phase-de-découverte">Découverte</a></h3>Mener une recherche utilisateur et comprendre les besoins des utilisateurs |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/ongov/Digital-Service-Standard/blob/develop/images/dna-strand1.png" width="100"> | <h3><a href="#phase-de-découverte">Découverte</a></h3>Mener une recherche utilisateur et comprendre les besoins des utilisateurs |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/ongov/Digital-Service-Standard/blob/develop/images/dna-strand2.png" width="100"> | <h3><a href="#phase-alpha">Alpha</a></h3>Créer des prototypes et les mettre à l’essai auprès de petits groupes d’utilisateurs |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/ongov/Digital-Service-Standard/blob/develop/images/dna-strand3.png" width="100"> | <h3><a href="#phase-bêta">Bêta</a></h3>Créer un service à grande échelle, mettre la version d’essai à la disposition du public |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/ongov/Digital-Service-Standard/blob/develop/images/dna-strand4.png" width="100"> | <h3><a href="#Phase-de-mise-en-ligne">Mise en ligne</a></h3>Poursuivre l’amélioration en fonction des commentaires des utilisateurs |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/ongov/Digital-Service-Standard/blob/develop/images/dna-strand4.png" width="100"> | <h3><a href="#phase-de-mise-en-ligne">Mise en ligne</a></h3>Poursuivre l’amélioration en fonction des commentaires des utilisateurs |
 
 ### Ce que la conception de services peut faire
 
@@ -96,7 +96,7 @@ L&#39;objectif est de se renseigner sur les utilisateurs et les difficultés aux
 
 #### La découverte ne se rapporte pas aux solutions, mais aux problèmes.
 
-Évitez de faire des hypothèses ou de penser à des solutions avant que la recherche soit terminée. Les solutions et les prototypes sont créés à l&#39;[étape suivante](#alpha).
+Évitez de faire des hypothèses ou de penser à des solutions avant que la recherche soit terminée. Les solutions et les prototypes sont créés à l&#39;[étape suivante](#phase-alpha).
 
 #### La phase de découverte ne se limite pas à une portée établie.
 
