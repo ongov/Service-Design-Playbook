@@ -209,7 +209,7 @@ Voici ce que comprend la phase alpha :
 - estimer combien le service coûtera;
 - déterminer les processus ou les politiques en place qui devront être modifiés pour soutenir le service.
 
-La phase alpha est un processus cyclique de conception et de mise à l&#39;essai de solutions potentielles. Les prototypes sont conçus rapidement, souvent avec les utilisateurs et les intervenants, puis mis à l&#39;essai auprès d&#39;utilisateurs réels. Les commentaires et les résultats des essais sont utilisés pour améliorer le service. Le processus est répété jusqu&#39;à ce que le prototype réponde aux besoins des utilisateurs et que la première version de travail du service soit prête à être créée. La première version de travail est appelée le produit viable minimal. Elle sera mise au point à la phase suivante, la phase [bêta](#bêta).
+La phase alpha est un processus cyclique de conception et de mise à l&#39;essai de solutions potentielles. Les prototypes sont conçus rapidement, souvent avec les utilisateurs et les intervenants, puis mis à l&#39;essai auprès d&#39;utilisateurs réels. Les commentaires et les résultats des essais sont utilisés pour améliorer le service. Le processus est répété jusqu&#39;à ce que le prototype réponde aux besoins des utilisateurs et que la première version de travail du service soit prête à être créée. La première version de travail est appelée le produit viable minimal. Elle sera mise au point à la phase suivante, la phase [bêta](#phase-bêta).
 
 Tous les services sont différents, mais la plupart des équipes auront besoin de huit à douze semaines pour terminer la phase alpha.
 
@@ -283,7 +283,7 @@ Ces méthodes d&#39;essai sont qualitatives et ne sont pas fondées sur un écha
 
 ### Constituer l&#39;équipe
 
-Chaque phase du processus de conception s&#39;appuie sur le travail déjà effectué et amène de nouvelles activités pour faire progresser le service. La phase alpha fait passer l&#39;accent de la recherche à l&#39;expérimentation et fait ainsi appel à un nouvel ensemble de [compétences et d&#39;expertise](#Rôles-des-membres-de-l’équipe).
+Chaque phase du processus de conception s&#39;appuie sur le travail déjà effectué et amène de nouvelles activités pour faire progresser le service. La phase alpha fait passer l&#39;accent de la recherche à l&#39;expérimentation et fait ainsi appel à un nouvel ensemble de [compétences et d&#39;expertise](#rôles-des-membres-de-léquipe).
 
 Pendant la phase alpha, les équipes auront besoin des compétences pour :
 
@@ -395,7 +395,7 @@ Rappelez-vous d&#39;assurer un suivi et de produire des rapports en fonction des
 
 Durant la phase bêta, l&#39;équipe se concentre sur la mise au point et la mise à l&#39;essai des premières versions du service tout en travaillant à la création d&#39;une version en direct. L&#39;équipe itère le service et effectue des tests d&#39;utilisation, tout en travaillant de manière agile.
 
-Les [rôles des membres de l&#39;équipe](#Rôles-des-membres-de-l’équipe) pendant la phase bêta ne changeront pas substantiellement par rapport à la phase alpha, mais il est possible qu&#39;il soit nécessaire d&#39;agrandir l&#39;équipe. La contribution de concepteurs d&#39;expérience utilisateur, de développeurs et de rédacteurs de contenu sera essentielle à la phase bêta.
+Les [rôles des membres de l&#39;équipe](#rôles-des-membres-de-léquipe) pendant la phase bêta ne changeront pas substantiellement par rapport à la phase alpha, mais il est possible qu&#39;il soit nécessaire d&#39;agrandir l&#39;équipe. La contribution de concepteurs d&#39;expérience utilisateur, de développeurs et de rédacteurs de contenu sera essentielle à la phase bêta.
 
 ### Achèvement de la phase bêta
 
