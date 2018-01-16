@@ -96,7 +96,7 @@ The goal is to learn about users and the challenges they face, not to gather evi
  
 #### Discovery is not about solutions, it's about problems
  
-Avoid making assumptions or thinking about solutions before the research is complete. Solutions and prototypes are built in the next phase.
+Avoid making assumptions or thinking about solutions before the research is complete. Solutions and prototypes are built in the next phase, [alpha](#alpha-phase).
  
 #### Discovery is not about operating within an established scope
  
