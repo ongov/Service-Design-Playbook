@@ -535,10 +535,10 @@ Ces ressources vont de la pensée conceptuelle comme champ d&#39;activité gén�
 ### Autres ressources gouvernementales
 
 - [Australia Digital Transformation Agency](https://www.dta.gov.au/standard/service-design-and-delivery-process/)
-- [UK Service Manual](https://www.gov.uk/service-manual)
+- [GOV.UK Service Manual](https://www.gov.uk/service-manual)
 - [New Zealand Government Web Toolkit](https://webtoolkit.govt.nz/guidance/service-design/tools/personas/)
 - [18F Method Cards](https://methods.18f.gov/decide/personas/)
-- [gov](https://www.usability.gov/)
+- [Usability.gov](https://www.usability.gov/)
 - [Service Design in British Columbia](http://www2.gov.bc.ca/gov/content/about-gov-bc-ca/service-design)
 
 Vous remarquez des oublis flagrants qui devraient être ajoutés à cette liste? Faites-nous-en part à l&#39;adresse [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
