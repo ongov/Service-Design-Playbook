@@ -535,10 +535,10 @@ These resources range from design thinking as an overarching field of practice t
 ### Other government resources
  
 - [Australia Digital Transformation Agency](https://www.dta.gov.au/standard/service-design-and-delivery-process/)
-- [UK Service Manual](https://www.gov.uk/service-manual)
+- [GOV.UK Service Manual](https://www.gov.uk/service-manual)
 - [New Zealand Government Web Toolkit](https://webtoolkit.govt.nz/guidance/service-design/tools/personas/)
 - [18F Method Cards](https://methods.18f.gov/decide/personas/)
-- [gov](https://www.usability.gov/)
+- [Usability.gov](https://www.usability.gov/)
 - [Service Design in British Columbia](http://www2.gov.bc.ca/gov/content/about-gov-bc-ca/service-design)
  
 Notice any glaring omissions that should be included on this list? Send them to [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
