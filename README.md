@@ -164,8 +164,6 @@ Most teams will have one or more people dedicated to the following roles:
 - [Content writer](#content-writers)
 - [Subject matter expert](#subject-matter-experts)
  
-It is important to understand the level of [accessibility expertise](https://ontario.ca/page/evaluating-web-accessibility-capacity) on the team. 
-
 The team needs to be flexible as it moves through the service design process. Since not all roles will be required in every phase of service design, team membership will have to adapt based on the needs of the service and the phase of work.
  
 Make sure team members understand their roles and responsibilities for discovery. Everyone has their own expertise, but everyone still participates in the research process. User research is a team sport and everyone needs to play.
@@ -238,8 +236,6 @@ Well-designed services extend far beyond what the user sees. Underlying processe
 ### Turning research into design
  
 Through research, the team should have an understanding of their users and their needs. These insights can then then be used to brainstorm ideas for solutions.
-
-Use the [inclusive design cards](https://www.ontario.ca/page/inclusive-design-cards) to help you sketch, plan, prototype and design content, interactions and processes.
  
 Remember that these brainstormed ideas can't be treated as fact or final solutions. They are assumptions that must be tested. The best way to do this is to turn the ideas into prototypes that can be tested with users.
  
