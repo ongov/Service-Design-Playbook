@@ -164,6 +164,8 @@ La plupart des équipes auront une ou plusieurs personnes assignées aux postes 
 - [rédacteur de contenu](#rédacteurs-de-contenu)
 - [expert en la matière](#experts-en-la-matière)
 
+Il est important de comprendre le [niveau d’expertise en matière d’accessibilité](https://ontario.ca/fr/page/evaluation-de-la-capacite-daccessibilite-web) de l’équipe.
+
 L&#39;équipe doit être souple tout au long du processus de conception du service. Comme les rôles ne seront pas tous requis à toutes les phases de la conception du service, la composition de l&#39;équipe devra être adaptée en fonction des besoins du service et de la phase du processus.
 
 Assurez-vous que les membres de l&#39;équipe comprennent leurs rôles et leurs responsabilités dans le cadre de la phase de découverte. Chacun a sa propre expertise, mais tous participent au processus de recherche. La recherche utilisateur est un sport d&#39;équipe et chacun doit participer.
@@ -236,6 +238,8 @@ Les services bien conçus vont bien au-delà de ce que voit l&#39;utilisateur. L
 ### Transformer la recherche en conception
 
 Grâce à la recherche effectuée, l&#39;équipe devrait avoir une compréhension des utilisateurs et de leurs besoins. Ces données peuvent être utilisées pour faire un remue-méninges afin de trouver des idées de solutions.
+
+L’utilisation des [fiches pour la conception inclusive](https://www.ontario.ca/fr/page/fiches-pour-la-conception-inclusive) vous aidera à esquisser, à planifier et à créer les prototypes et le contenu conceptuel, les interactions et les processus.
 
 Rappelez-vous que ces idées ne peuvent être traitées comme des faits ou des solutions finales; ce sont des hypothèses qui doivent être mises à l&#39;essai. La meilleure façon de faire est de transformer les idées en prototypes pouvant être mis à l&#39;essai auprès des utilisateurs.
 
